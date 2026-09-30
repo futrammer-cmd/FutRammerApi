@@ -1,0 +1,1 @@
+global using FutRammerApi.Domain.Common.Contracts;

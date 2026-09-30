@@ -1,0 +1,14 @@
+{
+  "SwaggerSettings": {
+    "Enable": true,
+    "Title": "FutRammerApi",
+    "Version": "1.0.0",
+    "Description": "FutRammerApi - Clean Architecture Web API with Multitenancy Support.",
+    "ContactName": "FutRammer",
+    "ContactEmail": "support@futrammer.com",
+    "ContactUrl": "",
+    "License": true,
+    "LicenseName": "MIT License",
+    "LicenseUrl": ""
+  }
+}

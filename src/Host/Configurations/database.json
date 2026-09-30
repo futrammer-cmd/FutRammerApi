@@ -1,0 +1,6 @@
+﻿{
+  "DatabaseSettings": {
+    "DBProvider": "mssql",
+    "ConnectionString": "Server=.;Database=FutRammer;Trusted_Connection=True;TrustServerCertificate=True;Encrypt=False"
+  }
+}

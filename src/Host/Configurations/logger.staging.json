@@ -1,0 +1,7 @@
+{
+  "LoggerSettings": {
+    "AppName": "FutRammerApi",
+    "WriteToFile": false,
+    "StructuredConsoleLogging": true
+  }
+}
